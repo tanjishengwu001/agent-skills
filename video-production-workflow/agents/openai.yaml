@@ -1,0 +1,4 @@
+interface:
+  display_name: "视频全流程创作助手"
+  short_description: "完成视频选题、脚本、分镜、制图、配音与成片渲染"
+  default_prompt: "使用 $video-production-workflow 从选题、脚本、分镜、制图、配音到渲染完成一个视频项目包。"
